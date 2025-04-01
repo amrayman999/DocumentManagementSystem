@@ -21,25 +21,25 @@ The **Document Management System** is a project developed for a college course o
 Here are some screenshots of the program in action:
 
 ### Create Email
-(images/1.png)
+![Create Email](images/1.png)
 
 ### Create Business Report
-(images/2.png)
+![Create Business Report](images/2.png)
 
 ### Edit Email
-(images/3.png)
+![Edit Email](images/3.png)
 
 ### Edit Business Report
-(images/4.png)
+![Edit Business Report](images/4.png)
 
 ### Display Emails
-(images/5.png)
+![Display Emails](images/5.png)
 
 ### Display Business Reports
-(images/6.png)
+![Display Business Reports](images/6.png)
 
 ### Delete Document
-(images/7.png)
+![Delete Document](images/7.png)
 
 ## How to Run
 1. Clone the repository or download the project files.
